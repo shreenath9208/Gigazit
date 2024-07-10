@@ -4,8 +4,8 @@
 # Installation:
 
 		Ensure you have Python 3 installed along with the necessary libraries:
-     code:
-        pip install opencv-python numpy
+     		code:
+        		pip install opencv-python numpy
 
 # Functionality:
 
@@ -35,7 +35,7 @@
 		Run the script.
 		Select the test image scenario (inside or crossing boundary) when prompted.
 
-Files:
+# Files:
 
-		open_cv.py: Main script file containing the detection logic.
+		Boundary_Detection.py: Main script file containing the detection logic.
 		README.md: This file providing an overview of the script's functionality and usage.
